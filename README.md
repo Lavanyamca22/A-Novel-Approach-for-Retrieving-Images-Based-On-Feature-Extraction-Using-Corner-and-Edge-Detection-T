@@ -1,0 +1,2 @@
+# A-Novel-Approach-for-Retrieving-Images-Based-On-Feature-Extraction-Using-Corner-and-Edge-Detection-T
+My project domain is image processing. And concept is to “IMAGE RETRIEVAL". I take one image dataset with 10,000 images. First of all I extract features from those images and store those features in database. And image retrieval system is like image search engine. When user can upload an image, from using that image features retrieve relevant images from database using extracted image features.
